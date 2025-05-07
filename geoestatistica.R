@@ -1,3 +1,9 @@
+install.packages("geodata")
+install.packages("terra")
+install.packages("sf")
+install.packages("tmap")
+install.packages("CAST")
+
 library(geodata)
 library(terra)
 library(sf)
